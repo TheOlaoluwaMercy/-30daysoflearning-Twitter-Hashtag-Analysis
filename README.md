@@ -1,6 +1,6 @@
 # -30daysoflearning-Twitter-Hashtag-Analysis
 Analysis of #30daysoflearning twitter hashtag with power Bi
-Goals and Objectives
+## Goals and Objectives
 - To access the performance of the hashtag
 - To discover the engagement of the hashtag(tweets,likes,shares)
 - To discover the reach of the hashtag
