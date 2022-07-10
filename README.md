@@ -17,9 +17,16 @@ Analysis of [#30daysoflearning](https://twitter.com/hashtag/30DaysOfLearning?t=7
 - Data scrapping with Python
 - Data cleaning with Power Query Editor
 - Data Visualization with Power BI
-## Data
+## Data Scrapping
 The data used was scrapped from twitter using python code. The code extracted the tweet date,tweet url,tweeter's twitter username,tweet source,tweeter's location,tweet content, and number of likes,retweets and quotes of any tweet containing the #30daysoflearning and/or #NG30daysoflearning hashtag.
 ![Screenshot (141)](https://user-images.githubusercontent.com/107176991/178151811-4b98ddd2-9b66-4d05-8bb7-69002030010f.png)
+The data was downloaded as a csv file
+![Screenshot (142)](https://user-images.githubusercontent.com/107176991/178161567-996dd6ef-d45f-46e1-b074-beaee10ff2c3.png)
+## Data Cleaning
+The data was imported into power BI 
+![Screenshot (143)](https://user-images.githubusercontent.com/107176991/178161614-0be5ec45-9466-45e4-b840-b75ed7471371.png)
+It was cleaned using the power query editor. This involved removal of  some columns, formatting each column to the right data type and tranforming the date column to month name, month number,dayname and day number.
+![Screenshot (145)](https://user-images.githubusercontent.com/107176991/178161707-b37ca6d7-0e05-4022-839f-ec8977281d57.png)
 ## Insights
 ### Engagements
 As at the time of conducting this analysis:
@@ -41,3 +48,5 @@ Learners in the data analysis track tweeted more about the learning program as s
 ![Screenshot_20220709-084536](https://user-images.githubusercontent.com/107176991/178156051-e6ef0862-29e8-4e1b-b106-b97b6608aaf1.png)
 
 Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMmEzZWM1MTMtNTk0Mi00YjFiLWJlOWQtMTQ3YWY3NTU0MTQ4IiwidCI6IjNjOWJiNWVjLTU3NmItNDY2NS05N2Y0LTlmNDBmYzQ1YTRjMiJ9)
+
+
