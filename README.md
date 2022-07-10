@@ -27,6 +27,9 @@ The data was imported into power BI
 ![Screenshot (143)](https://user-images.githubusercontent.com/107176991/178161614-0be5ec45-9466-45e4-b840-b75ed7471371.png)
 It was cleaned using the power query editor. This involved removal of  some columns, formatting each column to the right data type and tranforming the date column to month name, month number,dayname and day number.
 ![Screenshot (145)](https://user-images.githubusercontent.com/107176991/178161707-b37ca6d7-0e05-4022-839f-ec8977281d57.png)
+![Screenshot (146)](https://user-images.githubusercontent.com/107176991/178161761-8b07a76e-f672-4f51-8430-8e6c581f8bea.png)
+![Screenshot (144)](https://user-images.githubusercontent.com/107176991/178161766-65ece80c-1c55-4353-82d0-e909bb9443fe.png)
+
 ## Insights
 ### Engagements
 As at the time of conducting this analysis:
