@@ -25,4 +25,5 @@ As at the time of conducting this analysis:
 The hashtag gathered more interactions in June, than in May and July. This is the expected trend because the program started in June. Tweets from May are by the organizers to sensitize students about the learning oppourtunity. 
 There are lesser tweets during weekends. The fact that lesser learning activities are slated for weekends in the #30daysoflearning program schedule might be a factor contributing to this.
 ![Screenshot_20220709-084001](https://user-images.githubusercontent.com/107176991/178154338-678ba1a6-d42f-4964-8f77-41a27b82c5f8.png)
-
+The data extracted from twitter contained the locations of the users though only 63% of these locations are real locations. And the location analysis was based on this 63%. 92% of the users are tweeting from Nigeria. Tweets came in from other locations like Nainital, India, Palm Beach FL,Orlando FL, Accra Ghana,Toronto Ontario,Bahawalpur, Pakistan,Islamabad Pakistan,Virginia USA,Nainital India,Southampton England,Weija Ghana,Nepal,Hyderabad,Orange County California,Durban South Africa,St Neots,Bangladesh
+![image](https://user-images.githubusercontent.com/107176991/178155569-837ee56e-6a79-43a5-8cdb-5e0b43f9dd07.png)
