@@ -22,6 +22,6 @@ The data used was scrapped from twitter using python code. The code extracted th
 As at the time of conducting this analysis:
 259 twitters made 986 tweets with the hashtag. These tweets gathers 16,000 likes and 3,546 likes
 ![Screenshot_20220709-084210](https://user-images.githubusercontent.com/107176991/178153854-2a283832-3eef-4009-b6c4-b44705441a96.png)
-
+d
 
 
