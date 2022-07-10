@@ -1,5 +1,6 @@
 # -30daysoflearning-Twitter-Hashtag-Analysis
-Analysis of #30daysoflearning twitter hashtag with power Bi
+Analysis of [#30daysoflearning](https://twitter.com/hashtag/30DaysOfLearning?t=7fIlvikFtrVBZLJyrNy7kg&s=09) twitter hashtag with power Bi
+#30daysoflearning is a learning program set up by  [TheOyinbooke](https://www.bing.com/ck/a?!&&p=7c773d4a26aa5bdab9bb0d54542f8c46JmltdHM9MTY1NzQ3NzI2MSZpZ3VpZD1lYTExZmY4OS0yZGY5LTQ0NTItYmQ3Yy0xYWM1MzUyODRlZDYmaW5zaWQ9NTE3NQ&ptn=3&hsh=2&fclid=0d6b6270-007d-11ed-9fbe-958a85e5b5a9&u=a1aHR0cHM6Ly90d2l0dGVyLmNvbS9UaGVPeWluYm9va2U&ntb=1) and his team to to help students skill up during this ASUU strike period.
 ## Goals and Objectives
 - To access the performance of the hashtag
 - To discover the engagement of the hashtag(tweets,likes,shares)
