@@ -20,8 +20,9 @@ The data used was scrapped from twitter using python code. The code extracted th
 ![Screenshot (141)](https://user-images.githubusercontent.com/107176991/178151811-4b98ddd2-9b66-4d05-8bb7-69002030010f.png)
 ## Insights
 As at the time of conducting this analysis:
-259 twitters made 986 tweets with the hashtag. These tweets gathers 16,000 likes and 3,546 likes
+259 twitters made 986 tweets with the hashtag. These tweets gathered 16,000 likes and 3,546 likes
 ![Screenshot_20220709-084210](https://user-images.githubusercontent.com/107176991/178153854-2a283832-3eef-4009-b6c4-b44705441a96.png)
-d
-
+The hashtag gathered more interactions in June, than in May and July. This is the expected trend because the program started in June. Tweets from May are by the organizers to sensitize students about the learning oppourtunity. 
+There are lesser tweets during weekends. The fact that lesser learning activities are slated for weekends in the #30daysoflearning program schedule might be a factor contributing to this.
+![Screenshot_20220709-084001](https://user-images.githubusercontent.com/107176991/178154338-678ba1a6-d42f-4964-8f77-41a27b82c5f8.png)
 
