@@ -4,11 +4,12 @@ Analysis of #30daysoflearning twitter hashtag with power Bi
 - To access the performance of the hashtag
 - To discover the engagement of the hashtag(tweets,likes,shares)
 - To discover the reach of the hashtag
-- To know what the hashtag users are tweetin about
+- To know what the hashtag users are tweeting about
 - To know how people tweet with the hashtag over time
 - To know the most active users of the hashtag
 ## Tools
 - Python
+- Excel
 - Power BI
 - Power Quwery Editor
 ## Tasks 
