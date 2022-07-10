@@ -1,6 +1,7 @@
 # -30daysoflearning-Twitter-Hashtag-Analysis
 Analysis of [#30daysoflearning](https://twitter.com/hashtag/30DaysOfLearning?t=7fIlvikFtrVBZLJyrNy7kg&s=09) twitter hashtag with power Bi
 #30daysoflearning is a learning program set up by  [TheOyinbooke](https://www.bing.com/ck/a?!&&p=7c773d4a26aa5bdab9bb0d54542f8c46JmltdHM9MTY1NzQ3NzI2MSZpZ3VpZD1lYTExZmY4OS0yZGY5LTQ0NTItYmQ3Yy0xYWM1MzUyODRlZDYmaW5zaWQ9NTE3NQ&ptn=3&hsh=2&fclid=0d6b6270-007d-11ed-9fbe-958a85e5b5a9&u=a1aHR0cHM6Ly90d2l0dGVyLmNvbS9UaGVPeWluYm9va2U&ntb=1) and his team to to help students skill up during this ASUU strike period.
+
 ## Goals and Objectives
 - To access the performance of the hashtag
 - To discover the engagement of the hashtag(tweets,likes,shares)
@@ -8,27 +9,29 @@ Analysis of [#30daysoflearning](https://twitter.com/hashtag/30DaysOfLearning?t=7
 - To know what the hashtag users are tweeting about
 - To know how people tweet with the hashtag over time
 - To know the most active users of the hashtag
+
 ## Tools
 - Python
 - Excel
 - Power BI
 - Power Quwery Editor
+
 ## Tasks 
 - Data scrapping with Python
 - Data cleaning with Power Query Editor
 - Data Visualization with Power BI
+
 ## Data Scrapping
 The data used was scrapped from twitter using python code. The code extracted the tweet date,tweet url,tweeter's twitter username,tweet source,tweeter's location,tweet content, and number of likes,retweets and quotes of any tweet containing the #30daysoflearning and/or #NG30daysoflearning hashtag.
 ![Screenshot (141)](https://user-images.githubusercontent.com/107176991/178151811-4b98ddd2-9b66-4d05-8bb7-69002030010f.png)
 The data was downloaded as a csv file
 ![Screenshot (142)](https://user-images.githubusercontent.com/107176991/178161567-996dd6ef-d45f-46e1-b074-beaee10ff2c3.png)
+
 ## Data Cleaning
 The data was imported into power BI 
 ![Screenshot (143)](https://user-images.githubusercontent.com/107176991/178161614-0be5ec45-9466-45e4-b840-b75ed7471371.png)
 It was cleaned using the power query editor. This involved removal of  some columns, formatting each column to the right data type and tranforming the date column to month name, month number,dayname and day number.
-![Screenshot (145)](https://user-images.githubusercontent.com/107176991/178161707-b37ca6d7-0e05-4022-839f-ec8977281d57.png)
 ![Screenshot (146)](https://user-images.githubusercontent.com/107176991/178161761-8b07a76e-f672-4f51-8430-8e6c581f8bea.png)
-![Screenshot (144)](https://user-images.githubusercontent.com/107176991/178161766-65ece80c-1c55-4353-82d0-e909bb9443fe.png)
 
 ## Insights
 ### Engagements
@@ -51,5 +54,6 @@ Learners in the data analysis track tweeted more about the learning program as s
 ![Screenshot_20220709-084536](https://user-images.githubusercontent.com/107176991/178156051-e6ef0862-29e8-4e1b-b106-b97b6608aaf1.png)
 
 Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMmEzZWM1MTMtNTk0Mi00YjFiLWJlOWQtMTQ3YWY3NTU0MTQ4IiwidCI6IjNjOWJiNWVjLTU3NmItNDY2NS05N2Y0LTlmNDBmYzQ1YTRjMiJ9)
+
 
 
