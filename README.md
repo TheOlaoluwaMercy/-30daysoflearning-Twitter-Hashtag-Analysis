@@ -46,7 +46,8 @@ There are lesser tweets during weekends. The fact that lesser learning activitie
 ![Screenshot_20220709-084001](https://user-images.githubusercontent.com/107176991/178154338-678ba1a6-d42f-4964-8f77-41a27b82c5f8.png)
 ### Location 
 The data extracted from twitter contained the locations of the users though only 63% of these locations are real locations. And the location analysis was based on this 63%. 92% of the users are tweeting from Nigeria. Tweets came in from other locations like Nainital, India, Palm Beach FL,Orlando FL, Accra Ghana,Toronto Ontario,Bahawalpur, Pakistan,Islamabad Pakistan,Virginia USA,Nainital India,Southampton England,Weija Ghana,Nepal,Hyderabad,Orange County California,Durban South Africa,St Neots,Bangladesh.
-![Screenshot_20220709-084103](https://user-images.githubusercontent.com/107176991/178156074-2a31d27b-b311-448c-a401-2a389c787da5.png)
+![Screenshot (181)](https://user-images.githubusercontent.com/107176991/179438565-72e7bb80-bdb0-4cb0-98de-e65dbd898161.png)
+
 ### Users
 One of the organizers of the learning program [TheOyinbooke](https://www.bing.com/ck/a?!&&p=7c773d4a26aa5bdab9bb0d54542f8c46JmltdHM9MTY1NzQ3NzI2MSZpZ3VpZD1lYTExZmY4OS0yZGY5LTQ0NTItYmQ3Yy0xYWM1MzUyODRlZDYmaW5zaWQ9NTE3NQ&ptn=3&hsh=2&fclid=0d6b6270-007d-11ed-9fbe-958a85e5b5a9&u=a1aHR0cHM6Ly90d2l0dGVyLmNvbS9UaGVPeWluYm9va2U&ntb=1) is the most active user with a total of 143 tweets followed by [Richie4love](https://www.bing.com/ck/a?!&&p=a1684d25a729bb2d69cc0983f3565d6dJmltdHM9MTY1NzQ3NzM0NyZpZ3VpZD04YmEyNTZiNi00OGVkLTQ3OWUtYmRjZC0wMTAwZWVkZWI2NjYmaW5zaWQ9NTEyNg&ptn=3&hsh=2&fclid=4043821e-007d-11ed-8222-a517b4d2fe19&u=a1aHR0cHM6Ly90d2l0dGVyLmNvbS9SaWNoaWU0bG92ZQ&ntb=1) with 64 tweets. 
 ![Screenshot_20220709-084043](https://user-images.githubusercontent.com/107176991/178155916-7c461df4-ac3b-444b-978f-f9e75b9fabc0.png)
@@ -55,7 +56,7 @@ Further analysis can be performed to show the most active user of each track if 
 Learners in the data analysis track tweeted more about the learning program as shown by the higher number of mentions of their tool Excel and Power BI. 
 ![Screenshot_20220709-084536](https://user-images.githubusercontent.com/107176991/178156051-e6ef0862-29e8-4e1b-b106-b97b6608aaf1.png)
 
-Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMmEzZWM1MTMtNTk0Mi00YjFiLWJlOWQtMTQ3YWY3NTU0MTQ4IiwidCI6IjNjOWJiNWVjLTU3NmItNDY2NS05N2Y0LTlmNDBmYzQ1YTRjMiJ9)
+Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMmEzZWM1MTMtNTk0Mia00YjFiLWJlOWQtMTQ3YWY3NTU0MTQ4IiwidCI6IjNjOWJiNWVjLTU3NmItNDY2NS05N2Y0LTlmNDBmYzQ1YTRjMiJ9&pageName=ReportSection)
 
 
 
